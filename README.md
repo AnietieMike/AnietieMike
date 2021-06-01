@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anietie Udoaka
-- 👀 I’m interested in almost everything tech, the human condition 
+- 👀 I’m interested in almost everything tech, the human condition and spherical objects
 - 🌱 I’m currently learning mobile software developoment with Kotlin and Flutter
 - 📫 Feel free to reach out to me via email: anietieudoaka@gmail.com
 
