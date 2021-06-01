@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AnietieMike
-- 👀 I’m interested in almost everything
-- 🌱 I’m currently learning mobile developoment with Kotlin
-- 📫 You can reach me via email: anietieudoaka@gmail.com
+- 👋 Hi, I’m Anietie Udoaka
+- 👀 I’m interested in almost everything tech, the human condition 
+- 🌱 I’m currently learning mobile software developoment with Kotlin and Flutter
+- 📫 Feel free to reach out to me via email: anietieudoaka@gmail.com
 
 <!---
 AnietieMike/AnietieMike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
