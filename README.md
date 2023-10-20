@@ -1,6 +1,6 @@
 ### Hello World 👋
-I am an Android engineer based in Lagos, Nigeria
-- 🔭 Working on multiple mobile applications using Kotlin and Android SDK
+I am an Mobile developer based in Lagos, Nigeria
+- 🔭 Working on multiple mobile applications using Kotlin, Swift and Flutter
 - 🌱 Learning design patterns in depth
 
 
